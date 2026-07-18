@@ -2,17 +2,17 @@
     "schema_version":  1,
     "product":  "FilozofAsistan",
     "channel":  "stable",
-    "version":  "1.0.7",
-    "released_at":  "2026-07-17T20:48:30.5108375Z",
+    "version":  "1.0.9",
+    "released_at":  "2026-07-18T10:07:28.3019424Z",
     "mandatory":  false,
     "minimum_supported_version":  "1.0.0",
-    "release_url":  "https://github.com/filozof-assisteda/filozof-asistan/releases/tag/v1.0.7",
+    "release_url":  "https://github.com/filozof-assisteda/filozof-asistan/releases/tag/v1.0.9",
     "installer":  {
-                      "filename":  "FilozofAsistanSetup-v1.0.7.exe",
+                      "filename":  "FilozofAsistanSetup-v1.0.9.exe",
                       "url":  "https://github.com/filozof-assisteda/filozof-asistan/releases/latest/download/FilozofAsistanSetup-latest.exe",
-                      "versioned_url":  "https://github.com/filozof-assisteda/filozof-asistan/releases/download/v1.0.7/FilozofAsistanSetup-v1.0.7.exe",
-                      "size_bytes":  153294418,
-                      "sha256":  "AE8286D4EF7FA568E16DEA2D2E71E2887C2E518513B56F1B0EDC7CB258C08B74"
+                      "versioned_url":  "https://github.com/filozof-assisteda/filozof-asistan/releases/download/v1.0.9/FilozofAsistanSetup-v1.0.9.exe",
+                      "size_bytes":  153316117,
+                      "sha256":  "620DE5EB14A6E590F3D9AAABF43E99DA00D42E2C4373EF75C3D9F8CF8A8EA0C4"
                   },
     "notes":  [
                   "Filozof Asistan resmi dağıtım deposuna taşındı."
