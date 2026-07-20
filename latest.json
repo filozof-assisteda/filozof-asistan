@@ -2,19 +2,22 @@
     "schema_version":  1,
     "product":  "FilozofAsistan",
     "channel":  "stable",
-    "version":  "1.0.9",
-    "released_at":  "2026-07-18T10:07:28.3019424Z",
+    "version":  "1.0.12",
+    "released_at":  "2026-07-20T05:09:02.6908408Z",
     "mandatory":  false,
     "minimum_supported_version":  "1.0.0",
-    "release_url":  "https://github.com/filozof-assisteda/filozof-asistan/releases/tag/v1.0.9",
+    "release_url":  "https://github.com/filozof-assisteda/filozof-asistan/releases/tag/v1.0.12",
     "installer":  {
-                      "filename":  "FilozofAsistanSetup-v1.0.9.exe",
+                      "filename":  "FilozofAsistanSetup-v1.0.12.exe",
                       "url":  "https://github.com/filozof-assisteda/filozof-asistan/releases/latest/download/FilozofAsistanSetup-latest.exe",
-                      "versioned_url":  "https://github.com/filozof-assisteda/filozof-asistan/releases/download/v1.0.9/FilozofAsistanSetup-v1.0.9.exe",
-                      "size_bytes":  153316117,
-                      "sha256":  "620DE5EB14A6E590F3D9AAABF43E99DA00D42E2C4373EF75C3D9F8CF8A8EA0C4"
+                      "versioned_url":  "https://github.com/filozof-assisteda/filozof-asistan/releases/download/v1.0.12/FilozofAsistanSetup-v1.0.12.exe",
+                      "size_bytes":  153759883,
+                      "sha256":  "FD343C4E40E05BBF323760D3B8C506B5803F66980EA710211C3DE7D2A2247331"
                   },
     "notes":  [
-                  "Filozof Asistan resmi dağıtım deposuna taşındı."
+                  "Oturum açma sonrasında uygulama penceresinin görev çubuğunda yanıp sönmek yerine öne gelmesi iyileştirildi.",
+                  "Kayıtlı SQL profili yoksa Zirve SQL sunucuları uygulama açılışında sessizce keşfedilir.",
+                  "Kayıtlı en az bir SQL profili varsa başlangıçtaki otomatik keşif atlanır.",
+                  "Web ve masaüstü Supabase kullanıcı eşleşmesi korunarak Zirve SQL profillerinin Banka Aktarımı ekranına aktarımı geliştirildi."
               ]
 }
