@@ -2,17 +2,17 @@
     "schema_version":  1,
     "product":  "FilozofAsistan",
     "channel":  "stable",
-    "version":  "1.0.12",
-    "released_at":  "2026-07-20T05:09:02.6908408Z",
+    "version":  "1.0.13",
+    "released_at":  "2026-07-23T03:43:12.5934760Z",
     "mandatory":  false,
     "minimum_supported_version":  "1.0.0",
-    "release_url":  "https://github.com/filozof-assisteda/filozof-asistan/releases/tag/v1.0.12",
+    "release_url":  "https://github.com/filozof-assisteda/filozof-asistan/releases/tag/v1.0.13",
     "installer":  {
-                      "filename":  "FilozofAsistanSetup-v1.0.12.exe",
+                      "filename":  "FilozofAsistanSetup-v1.0.13.exe",
                       "url":  "https://github.com/filozof-assisteda/filozof-asistan/releases/latest/download/FilozofAsistanSetup-latest.exe",
-                      "versioned_url":  "https://github.com/filozof-assisteda/filozof-asistan/releases/download/v1.0.12/FilozofAsistanSetup-v1.0.12.exe",
-                      "size_bytes":  153759883,
-                      "sha256":  "FD343C4E40E05BBF323760D3B8C506B5803F66980EA710211C3DE7D2A2247331"
+                      "versioned_url":  "https://github.com/filozof-assisteda/filozof-asistan/releases/download/v1.0.13/FilozofAsistanSetup-v1.0.13.exe",
+                      "size_bytes":  153752216,
+                      "sha256":  "3F306F9F5938000CA76C3D9EFE091D5B2B603EB825F5664223E05E0DAC1920A0"
                   },
     "notes":  [
                   "Oturum açma sonrasında uygulama penceresinin görev çubuğunda yanıp sönmek yerine öne gelmesi iyileştirildi.",
